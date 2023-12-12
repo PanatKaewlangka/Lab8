@@ -20,6 +20,7 @@ int main()
   if (rank <= 'B')
   {
     cout << "You have received 1 gems.\n";
+  }
   if (rank <= 'C')
   {
     cout << "You have received 2000 coins.\n";
@@ -29,5 +30,4 @@ int main()
     cout << "You have received very KAK items.\n";
   }
   return 0;
-}
 }
